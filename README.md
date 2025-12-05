@@ -70,60 +70,59 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Showcase
+
+---
+
+### 📌 1. Airbnb Clone — Full-Stack Application
+
+**Frontend (React)**
+- Event handling, advanced state management, React Hooks  
+- Advanced forms & validations, React Router  
+
+**Backend (Spring Boot)**
+- REST APIs using Spring Boot MVC  
+- Spring Data JPA, Spring Security  
+- Unit & integration testing, CI/CD deployment  
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
 
 
 ---
 
-## 📌 **1. Airbnb Clone — Full-Stack Application**
+### 📌 2. LinkedIn Clone — Enterprise-Level Full-Stack
 
-![Airbnb Project Banner](assets/airbnb-banner.png)
+**Frontend (React 19 + Next.js)**
+- Event handling, advanced state, forms & validation  
+- Global state management: Redux + Zustand  
+- React 19 advanced APIs, server components, Next.js routing  
+- Performance optimization & CI/CD deployment  
 
-### 🎨 **Frontend — React**
-- Advanced **event handling** and dynamic UI interactions  
-- Complex **state management** with React Hooks  
-- **Advanced forms** with custom validations  
-- Client-side routing using **React Router**  
-- Component-driven architecture for reusability  
+**Backend (Spring Boot Microservices)**
+- REST APIs, Spring Data JPA, Spring Security  
+- Microservices, Kafka, Docker, Kubernetes  
+- Caching, concurrent transaction management  
+- Async & blocking task scheduling  
 
-### ⚙️ **Backend — Spring Boot**
-- Fully functional **RESTful APIs** using Spring MVC  
-- **Spring Data JPA** for database operations  
-- Secured with **Spring Security (Auth + Role-based access)**  
-- Backend **unit & integration testing**  
-- CI/CD pipeline for automated deployment  
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
 
-### 🛠 **Tech Stack**
-React • React Router • Hooks • Java • Spring Boot • Spring MVC • JPA • Spring Security • CI/CD
-
-
----
-
-## 📌 **2. LinkedIn Clone — Enterprise-Level Full-Stack Project**
-
-![LinkedIn Project Banner](assets/linkedin-banner.png)
-
-### 🎨 **Frontend — React 19 + Next.js**
-- Event-driven UI + advanced state handling  
-- **Global state management** with Redux + Zustand  
-- **React 19 Server Components** + Next.js routing  
-- Performance optimization: memoization, lazy loading, batching  
-- Complex forms with validations + reusable form logic  
-- CI/CD for automated deployment  
-
-### ⚙️ **Backend — Spring Boot Microservices**
-- Scalable **microservices architecture**  
-- Spring Boot MVC + **Spring Data JPA**  
-- Role-based auth with **Spring Security**  
-- High-concurrency **transaction management**  
-- **Caching** for performance optimization  
-- **Kafka** for async event streaming  
-- **Dockerized** services orchestrated via **Kubernetes**  
-- Implemented async & blocking **task scheduling**  
-
-### 🛠 **Tech Stack**
-React 19 • Next.js • Redux • Zustand • Java • Spring Boot  
-Microservices • Kafka • Docker • Kubernetes • JPA • Security • Caching
 
 
 ---
