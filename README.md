@@ -77,7 +77,7 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 
 ## 📌 **1. Airbnb Clone — Full-Stack Application**
 
-![Airbnb Project Banner](https://via.placeholder.com/1100x250.png?text=Airbnb+Clone+Project+Banner)
+![Airbnb Project Banner](assets/airbnb-banner.png)
 
 ### 🎨 **Frontend — React**
 - Advanced **event handling** and dynamic UI interactions  
@@ -96,14 +96,12 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 ### 🛠 **Tech Stack**
 React • React Router • Hooks • Java • Spring Boot • Spring MVC • JPA • Spring Security • CI/CD
 
-### 🔗 **Links**
-[🔴 Live Demo](#) &nbsp;|&nbsp; [📦 Source Code](#)
 
 ---
 
 ## 📌 **2. LinkedIn Clone — Enterprise-Level Full-Stack Project**
 
-![LinkedIn Project Banner](https://via.placeholder.com/1100x250.png?text=LinkedIn+Clone+Project+Banner)
+![LinkedIn Project Banner](assets/linkedin-banner.png)
 
 ### 🎨 **Frontend — React 19 + Next.js**
 - Event-driven UI + advanced state handling  
@@ -127,8 +125,6 @@ React • React Router • Hooks • Java • Spring Boot • Spring MVC • JPA
 React 19 • Next.js • Redux • Zustand • Java • Spring Boot  
 Microservices • Kafka • Docker • Kubernetes • JPA • Security • Caching
 
-### 🔗 **Links**
-[🔴 Live Demo](#) &nbsp;|&nbsp; [📦 Source Code](#)
 
 ---
 
