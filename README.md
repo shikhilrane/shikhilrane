@@ -70,37 +70,65 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 
 ---
 
-# 🚀 Project Showcase
+## 🚀 Featured Projects
 
-### 🔹 **1. Microservices E-Commerce Backend (Java + Spring Boot + Kafka)**
-A scalable microservices architecture featuring:
-- Product, Order, Payment, Notification services  
-- Event-driven communication using **Kafka topics**  
-- Service discovery with **Eureka**  
-- **API Gateway**, distributed logs, and Dockerized deployment  
-**Tech:** Java, Spring Boot, Spring Cloud, Kafka, Docker, MySQL  
-🔗 *(Add your repo link if available)*
 
 ---
 
-### 🔹 **2. Authentication & Authorization System**
-Secure login/registration service with:
-- Spring Security + JWT  
-- Role-based access control  
-- Refresh tokens  
-- Docker containerization  
-**Tech:** Java, Spring Boot, Spring Security, JWT, PostgreSQL  
-🔗 *(Add your repo link)*
+## 📌 **1. Airbnb Clone — Full-Stack Application**
+
+![Airbnb Project Banner](https://via.placeholder.com/1100x250.png?text=Airbnb+Clone+Project+Banner)
+
+### 🎨 **Frontend — React**
+- Advanced **event handling** and dynamic UI interactions  
+- Complex **state management** with React Hooks  
+- **Advanced forms** with custom validations  
+- Client-side routing using **React Router**  
+- Component-driven architecture for reusability  
+
+### ⚙️ **Backend — Spring Boot**
+- Fully functional **RESTful APIs** using Spring MVC  
+- **Spring Data JPA** for database operations  
+- Secured with **Spring Security (Auth + Role-based access)**  
+- Backend **unit & integration testing**  
+- CI/CD pipeline for automated deployment  
+
+### 🛠 **Tech Stack**
+React • React Router • Hooks • Java • Spring Boot • Spring MVC • JPA • Spring Security • CI/CD
+
+### 🔗 **Links**
+[🔴 Live Demo](#) &nbsp;|&nbsp; [📦 Source Code](#)
 
 ---
 
-### 🔹 **3. Full-Stack Task Manager**
-A simple but elegant full-stack project:
-- Java Spring Boot backend  
-- React + Tailwind frontend  
-- REST APIs  
-**Tech:** Java, Spring Boot, React, Tailwind  
-🔗 *(Add your repo link)*
+## 📌 **2. LinkedIn Clone — Enterprise-Level Full-Stack Project**
+
+![LinkedIn Project Banner](https://via.placeholder.com/1100x250.png?text=LinkedIn+Clone+Project+Banner)
+
+### 🎨 **Frontend — React 19 + Next.js**
+- Event-driven UI + advanced state handling  
+- **Global state management** with Redux + Zustand  
+- **React 19 Server Components** + Next.js routing  
+- Performance optimization: memoization, lazy loading, batching  
+- Complex forms with validations + reusable form logic  
+- CI/CD for automated deployment  
+
+### ⚙️ **Backend — Spring Boot Microservices**
+- Scalable **microservices architecture**  
+- Spring Boot MVC + **Spring Data JPA**  
+- Role-based auth with **Spring Security**  
+- High-concurrency **transaction management**  
+- **Caching** for performance optimization  
+- **Kafka** for async event streaming  
+- **Dockerized** services orchestrated via **Kubernetes**  
+- Implemented async & blocking **task scheduling**  
+
+### 🛠 **Tech Stack**
+React 19 • Next.js • Redux • Zustand • Java • Spring Boot  
+Microservices • Kafka • Docker • Kubernetes • JPA • Security • Caching
+
+### 🔗 **Links**
+[🔴 Live Demo](#) &nbsp;|&nbsp; [📦 Source Code](#)
 
 ---
 
