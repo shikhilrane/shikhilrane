@@ -128,6 +128,15 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 ---
 
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhilrane&layout=compact&theme=tokyonight)
+
+
+
+---
+
+
 # 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=shikhilrane&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
