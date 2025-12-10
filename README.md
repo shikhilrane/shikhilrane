@@ -130,7 +130,7 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhilrane&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shikhilrane&layout=compact&theme=tokyonight)
 
 
 
