@@ -124,16 +124,6 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
 
 
-
----
-
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shikhilrane&layout=compact&theme=tokyonight)
-
-
-
 ---
 
 
