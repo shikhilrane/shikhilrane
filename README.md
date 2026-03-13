@@ -4,6 +4,13 @@ Passionate about **Java, Spring Boot, Microservices, Kafka, Docker, Kubernetes**
 
 I focus heavily on backend engineering but enjoy full-stack work when needed!
 
+## 🧩 Full-Stack Development Philosophy
+
+- Build scalable backend systems with clean architecture
+- Create performant and responsive frontend interfaces
+- Design efficient APIs between frontend and backend
+- Focus on maintainability, performance, and user experience
+
 ---
 
 ## 🌐 Socials:
@@ -126,20 +133,63 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 
 ---
 
+## 🎯 2026 Goals
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shikhilrane&theme=radical&row=1&column=7)
+- Master **System Design**
+- Build scalable **full-stack applications**
+- Improve **frontend architecture with React & Next.js**
+- Build production-scale **microservices**
+- Strengthen **DSA & problem solving**
+- Contribute to **open-source full-stack projects**
+
+
+## 🌍 Open Source
+
+Interested in contributing to:
+
+- Java & Spring Boot ecosystem
+- React / Next.js projects
+- Developer tooling
+- Full-stack web applications
+- Cloud-native infrastructure tools
+
 
 # 📈 Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shikhilrane&theme=react-dark&hide_border=false)
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shikhilrane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shikhilrane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhilrane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/shikhilrane/shikhilrane/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shikhilrane&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🏆 GitHub Trophies
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=shikhilrane&theme=onedark&no-frame=true&margin-w=4)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=shikhilrane&color=blue)
+
+---
+
+# 📬 Connect With Me
+
+💼 Open to collaboration on **backend and microservices projects**
+
+📧 Email: **shikhilrane04@gmail.com**
+
+--
+
+## ☕ Support My Work
+
+If you like my projects, consider giving them a ⭐ on GitHub.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
