@@ -1,8 +1,16 @@
-## 👋 Hey there! I’m **Shikhil Rane**
-**Java Full-Stack Developer** who loves building scalable backend systems and cloud-native microservices.  
-Passionate about **Java, Spring Boot, Microservices, Kafka, Docker, Kubernetes**, and modern full-stack application development.
+## 👋 Hey there! I'm **Shikhil Kishor Rane**
 
-I focus heavily on backend engineering but enjoy full-stack work when needed!
+I'm a **Java Full-Stack Software Engineer** passionate about building **scalable backend systems, distributed services, and modern full-stack web applications**.
+
+My primary expertise lies in the **Java ecosystem**, where I design and implement robust backend architectures using **Spring Boot, Microservices, and event-driven systems with Apache Kafka**. I enjoy solving complex engineering problems related to **system scalability, performance optimization, and distributed architectures**.
+
+Alongside backend engineering, I also build modern and responsive user interfaces using **React, Next.js, and TypeScript**, enabling me to deliver complete **end-to-end full-stack solutions**.
+
+I enjoy working across the entire stack — from **designing APIs and microservices to building interactive frontend experiences and deploying applications using containerized cloud environments like Docker and Kubernetes**.
+
+I am continuously focused on improving my expertise in **system design, distributed systems, and scalable software architecture**, while building production-grade applications and contributing to meaningful software products.
+
+---
 
 ## 🧩 Full-Stack Development Philosophy
 
@@ -100,7 +108,6 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
 
-
 ---
 
 ### 📌 2. LinkedIn Clone — Enterprise-Level Full-Stack
@@ -115,7 +122,9 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 - REST APIs, Spring Data JPA, Spring Security  
 - Microservices, Kafka, Docker, Kubernetes  
 - Caching, concurrent transaction management  
-- Async & blocking task scheduling  
+- Async & blocking task scheduling
+
+---
 
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
@@ -130,7 +139,6 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
 
-
 ---
 
 ## 🎯 2026 Goals
@@ -142,6 +150,7 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 - Strengthen **DSA & problem solving**
 - Contribute to **open-source full-stack projects**
 
+---
 
 ## 🌍 Open Source
 
@@ -153,10 +162,12 @@ Interested in contributing to:
 - Full-stack web applications
 - Cloud-native infrastructure tools
 
+---
 
 # 📈 Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shikhilrane&theme=react-dark&hide_border=false)
 
+---
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shikhilrane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -171,7 +182,7 @@ Interested in contributing to:
 
 📧 Email: **shikhilrane04@gmail.com**
 
---
+---
 
 ## ☕ Support My Work
 
