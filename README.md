@@ -163,22 +163,6 @@ Interested in contributing to:
 ![](https://nirzak-streak-stats.vercel.app/?user=shikhilrane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhilrane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/shikhilrane/shikhilrane/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shikhilrane&theme=onedark&no-frame=true&margin-w=4)
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=shikhilrane&color=blue)
-
 ---
 
 # 📬 Connect With Me
