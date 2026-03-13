@@ -178,9 +178,9 @@ Interested in contributing to:
 
 # 📬 Connect With Me
 
-💼 Open to collaboration on **backend and microservices projects**
+💼 Open to collaborating on **full-stack applications, backend systems, and microservices architectures**
 
-📧 Email: **shikhilrane04@gmail.com**
+📧 Feel free to reach out: **shikhilrane04@gmail.com**
 
 ---
 
