@@ -128,7 +128,7 @@ I focus heavily on backend engineering but enjoy full-stack work when needed!
 
 
 # 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=shikhilrane&theme=onedark" />
+![](https://github-profile-trophy.vercel.app/?username=shikhilrane&theme=radical&row=1&column=7)
 
 # 📈 Activity Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shikhilrane&theme=react-dark&hide_border=false)
